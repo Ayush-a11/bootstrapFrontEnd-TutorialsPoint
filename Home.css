@@ -1,0 +1,117 @@
+.header1{
+	background-image: url('https://images.pexels.com/photos/1363876/pexels-photo-1363876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-repeat:no-repeat;
+	min-height: 700px;
+	color:white;
+	width:100%;
+	
+}
+.text{
+	color:black;
+	font-weight:bold;
+	font-size:45px;
+	margin: 200px 100px 100px 500px;
+}
+.redbutton{
+	background-color: rgb(255, 87, 87);
+	color: white;
+	font-weight: bold;
+	height:45px;
+	width:150px;
+	outline-style: none;
+	border:none;
+	margin-right: 15px;
+}
+.form1{
+	margin-bottom: 10px;
+	margin-left:450px;
+
+}
+.navbar-nav > li {
+	padding-left:130px;
+	padding-right:0px;
+	
+  }
+.navbar-nav > li a {
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+  }
+  .navbar-nav > li a:hover {
+	font-weight: bold;
+	color: red;
+  }
+input[type="text"],[type="email"]{
+	height:40px;
+	width: 400px;
+	outline: none;
+	background-color: rgb(237,244,246);
+	outline-style: none;
+	border:none;
+
+}
+.navbar .navbar-header,
+.navbar .navbar-brand{
+	color:white;
+	font-size: 30px;
+}
+.white{
+	color:white;
+}	
+footer{
+	background-color:rgb(154, 205, 80);
+
+}
+td >ul li:before {
+content: '✓';
+}
+table {
+	width: 100%;
+}
+td,th{
+	font-size:20px;
+}
+.search{
+	background-color:rgb(216,42,78);
+	width: 70%;
+	height:300px;
+	margin-left:15%;
+	margin-right:15%;
+	z-index: 9;
+}
+.form2{
+	background-color:white;
+	width:80%;
+	height:100px;
+	margin-left: 10%;
+	margin-right:20%;
+	margin-top:5%;
+}
+.grid{
+	background-color:rgb(204,204,204);
+	height: 700px;
+	width: 80%;
+	margin-left:10%;
+	margin-right:10%;
+
+}
+h5{
+	font: size 15px;
+
+}
+.card-text{
+	color:rgb(216,42,78);
+	text-align:center;
+}
+.card-body{
+	width:270px;
+	text-align: center;
+	height:60px;
+}
+.card-body:hover .card-text{
+	color:white;
+}
+.card-body:hover{
+	background-color:rgb(216,42,78);
+	color:white;	
+}
